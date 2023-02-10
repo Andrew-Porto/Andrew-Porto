@@ -1,7 +1,5 @@
 ## Boas vindas ao meu perfil 😀
 
-Um texto bem legal sobre Renan Fernandes aqui.
-
 <br>
 
 <!-- GITHUB STATUS -->
