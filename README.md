@@ -11,3 +11,6 @@ Um texto bem legal sobre Renan Fernandes aqui.
 
   <!-- TEMAS: dark, radical, merko, gruvbox, tokyonight, onedark, cobalt, synthwave, highcontrast, dracula -->
 </div>
+
+<!--Snake das contribuições do Github-->
+![snake animation](https://github.com/<Andrew-Porto>/<Andrew-Porto>/blob/output/github-contribution-grid-snake2.svg)
